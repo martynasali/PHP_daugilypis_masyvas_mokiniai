@@ -111,13 +111,14 @@ $moksleiviai =[
 
     th,
     td {
+        text-align: center;
         padding: 15px;
         background-color: rgba(255,255,255,0.2);
         color: #fff;
     }
 
     th {
-        text-align: left;
+        text-align: center;
     }
 
     thead {
